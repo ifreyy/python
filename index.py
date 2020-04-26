@@ -1,4 +1,4 @@
 def index():
   return "lsadfl"
-def hello():
-	return  'pppp'
+def login():
+	return  redirect('/index')
